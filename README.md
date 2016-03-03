@@ -6,11 +6,11 @@
 
 1.0
 
-Created: March 2, 2016  4:29:21 EST | Last modified: March 3, 2016  3:50:20 EST
+Created: March 2, 2016  4:29:21 EST | Last modified: March 3, 2016  3:54:06 EST
 
 ## Permalinks
 
-Valcu Permalink: https://valcu.co/users/mark/doc_templates/mark-try-capture-v1_0-6
+Valcu Permalink: https://localhost:3000/users/mark/doc_templates/mark-try-capture-v1_0-6
 
 Repository Permalink: https://github.com/valcucodev/mark-try-capture-v1_0-6
 
